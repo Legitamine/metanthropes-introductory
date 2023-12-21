@@ -1,0 +1,282 @@
+{
+  "folder": null,
+  "name": "Helpful Tables",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Push, Pull, Lift & Toss",
+      "type": "image",
+      "_id": "8JgPCB8dK9sgzQUh",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {
+        "caption": ""
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "systems/metanthropes/artwork/tables/power.webp",
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "U772esq9FbrkahYQ": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "metanthropes",
+        "systemVersion": "0.9.002",
+        "coreVersion": "11.315",
+        "createdTime": 1697733807443,
+        "modifiedTime": 1703159926601,
+        "lastModifiedBy": "U772esq9FbrkahYQ"
+      },
+      "_key": "!journal.pages!Zu1WpuaSSZiN0djM.8JgPCB8dK9sgzQUh"
+    },
+    {
+      "sort": 200000,
+      "name": "Specific Strikes & Athletics",
+      "type": "image",
+      "_id": "AOJBdYI6URm7nsbu",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {
+        "caption": ""
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "systems/metanthropes/artwork/tables/athletics.webp",
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "U772esq9FbrkahYQ": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "metanthropes",
+        "systemVersion": "0.9.002",
+        "coreVersion": "11.315",
+        "createdTime": 1697733879776,
+        "modifiedTime": 1703159935281,
+        "lastModifiedBy": "U772esq9FbrkahYQ"
+      },
+      "_key": "!journal.pages!Zu1WpuaSSZiN0djM.AOJBdYI6URm7nsbu"
+    },
+    {
+      "sort": 0,
+      "name": "Areas",
+      "type": "image",
+      "_id": "mgmhrHsIhNiPKcfe",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {
+        "caption": ""
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "systems/metanthropes/artwork/tables/areas.webp",
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "U772esq9FbrkahYQ": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "metanthropes",
+        "systemVersion": "0.9.002",
+        "coreVersion": "11.315",
+        "createdTime": 1697734068615,
+        "modifiedTime": 1703159904751,
+        "lastModifiedBy": "U772esq9FbrkahYQ"
+      },
+      "_key": "!journal.pages!Zu1WpuaSSZiN0djM.mgmhrHsIhNiPKcfe"
+    },
+    {
+      "sort": 500000,
+      "name": "Aiming Reductions",
+      "type": "image",
+      "_id": "faPSnSRQ2IIcP9aw",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {
+        "caption": ""
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "systems/metanthropes/artwork/tables/aiming-penalties.webp",
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "U772esq9FbrkahYQ": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "metanthropes",
+        "systemVersion": "0.9.002",
+        "coreVersion": "11.315",
+        "createdTime": 1697734259806,
+        "modifiedTime": 1703159943152,
+        "lastModifiedBy": "U772esq9FbrkahYQ"
+      },
+      "_key": "!journal.pages!Zu1WpuaSSZiN0djM.faPSnSRQ2IIcP9aw"
+    },
+    {
+      "sort": 600000,
+      "name": "Item Interaction",
+      "type": "image",
+      "_id": "zB1DizrKn7Yi6B94",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {
+        "caption": ""
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "systems/metanthropes/artwork/tables/interaction-movement.webp",
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "U772esq9FbrkahYQ": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "metanthropes",
+        "systemVersion": "0.9.002",
+        "coreVersion": "11.315",
+        "createdTime": 1697734299795,
+        "modifiedTime": 1703159953581,
+        "lastModifiedBy": "U772esq9FbrkahYQ"
+      },
+      "_key": "!journal.pages!Zu1WpuaSSZiN0djM.zB1DizrKn7Yi6B94"
+    },
+    {
+      "sort": 700000,
+      "name": "Terrain & Obstacles",
+      "type": "image",
+      "_id": "RaSXQnkT5WhIZgFT",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {
+        "caption": ""
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "systems/metanthropes/artwork/tables/terrain-movement.webp",
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "U772esq9FbrkahYQ": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "metanthropes",
+        "systemVersion": "0.9.002",
+        "coreVersion": "11.315",
+        "createdTime": 1697734340370,
+        "modifiedTime": 1703159960616,
+        "lastModifiedBy": "U772esq9FbrkahYQ"
+      },
+      "_key": "!journal.pages!Zu1WpuaSSZiN0djM.RaSXQnkT5WhIZgFT"
+    },
+    {
+      "sort": -100000,
+      "name": "During My Turn",
+      "type": "image",
+      "_id": "oyUx6Ajyn1T9r0XP",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {
+        "caption": ""
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "systems/metanthropes/artwork/tables/during-my-turn.webp",
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "U772esq9FbrkahYQ": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "metanthropes",
+        "systemVersion": "0.9.002",
+        "coreVersion": "11.315",
+        "createdTime": 1700824180499,
+        "modifiedTime": 1703159918153,
+        "lastModifiedBy": "U772esq9FbrkahYQ"
+      },
+      "_key": "!journal.pages!Zu1WpuaSSZiN0djM.oyUx6Ajyn1T9r0XP"
+    }
+  ],
+  "ownership": {
+    "default": 2,
+    "U772esq9FbrkahYQ": 3,
+    "J1KP3PGwKTDhBF8s": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "6f284619757b90d89a16042b3e5de2a86dbf1590",
+      "sourceId": "JournalEntry.AfxEs97GA55chv9p",
+      "defaultPermission": 2
+    },
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "metanthropes",
+    "systemVersion": "0.9.003",
+    "coreVersion": "11.315",
+    "createdTime": 1697733774932,
+    "modifiedTime": 1703176087521,
+    "lastModifiedBy": "J1KP3PGwKTDhBF8s"
+  },
+  "_id": "Zu1WpuaSSZiN0djM",
+  "sort": 0,
+  "_key": "!journal!Zu1WpuaSSZiN0djM"
+}
