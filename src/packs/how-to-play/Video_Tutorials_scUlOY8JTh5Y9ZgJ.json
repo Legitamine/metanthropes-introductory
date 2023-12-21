@@ -1,0 +1,147 @@
+{
+  "name": "Video Tutorials",
+  "pages": [
+    {
+      "sort": 300000,
+      "name": "During My Turn",
+      "type": "video",
+      "_id": "kAUoSNlK6GC8GSEN",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5,
+        "loop": false,
+        "autoplay": false,
+        "timestamp": 0,
+        "width": null,
+        "height": null
+      },
+      "src": "https://www.youtube.com/watch?v=i7X6nvknWZg",
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "U772esq9FbrkahYQ": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "metanthropes-system",
+        "systemVersion": "0.8.20",
+        "coreVersion": "11.313",
+        "createdTime": 1694522682172,
+        "modifiedTime": 1697733508787,
+        "lastModifiedBy": "U772esq9FbrkahYQ"
+      },
+      "_key": "!journal.pages!scUlOY8JTh5Y9ZgJ.kAUoSNlK6GC8GSEN"
+    },
+    {
+      "sort": 200000,
+      "name": "System Tutorial Video",
+      "type": "video",
+      "_id": "HuQSxVb5yBWaJoEN",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5,
+        "loop": false,
+        "autoplay": false,
+        "timestamp": 0,
+        "width": null,
+        "height": null
+      },
+      "src": "https://www.youtube.com/watch?v=5OQBppa685E",
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "U772esq9FbrkahYQ": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "metanthropes-system",
+        "systemVersion": "0.8.20",
+        "coreVersion": "11.313",
+        "createdTime": 1697733415161,
+        "modifiedTime": 1697733493244,
+        "lastModifiedBy": "U772esq9FbrkahYQ"
+      },
+      "_key": "!journal.pages!scUlOY8JTh5Y9ZgJ.HuQSxVb5yBWaJoEN"
+    },
+    {
+      "sort": 100000,
+      "name": "How To Play",
+      "type": "video",
+      "_id": "PqphwFe3pM32Hbqv",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5,
+        "loop": false,
+        "autoplay": false,
+        "timestamp": 0,
+        "width": null,
+        "height": null
+      },
+      "src": "https://www.youtube.com/watch?v=eBpT-HkBS6Y",
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "U772esq9FbrkahYQ": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "metanthropes-system",
+        "systemVersion": "0.8.20",
+        "coreVersion": "11.313",
+        "createdTime": 1697733605431,
+        "modifiedTime": 1697733625311,
+        "lastModifiedBy": "U772esq9FbrkahYQ"
+      },
+      "_key": "!journal.pages!scUlOY8JTh5Y9ZgJ.PqphwFe3pM32Hbqv"
+    }
+  ],
+  "folder": null,
+  "ownership": {
+    "default": 2,
+    "U772esq9FbrkahYQ": 3,
+    "J1KP3PGwKTDhBF8s": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "e269cfafabdb207db37f6b2011480cc2d95dad12",
+      "sourceId": "JournalEntry.QrvKZQMo9l4EDF3B",
+      "defaultPermission": 2
+    },
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "metanthropes",
+    "systemVersion": "0.9.003",
+    "coreVersion": "11.315",
+    "createdTime": 1694522580839,
+    "modifiedTime": 1703176091544,
+    "lastModifiedBy": "J1KP3PGwKTDhBF8s"
+  },
+  "_id": "scUlOY8JTh5Y9ZgJ",
+  "sort": 0,
+  "_key": "!journal!scUlOY8JTh5Y9ZgJ"
+}
