@@ -12,6 +12,7 @@
  * aaron-bond.better-comments
  *
  */
+//todo rename antagonists to NPCs
 Hooks.once("init", async function () {
 	//? Introductory Module Settings
 	game.settings.register("metanthropes", "metaIntroductory", {
