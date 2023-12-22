@@ -32,23 +32,6 @@ jobs:
                   file: "./module.json"
                   field: "download"
                   value: "https://github.com/${{github.repository}}/releases/download/${{steps.version.outputs.prop}}/${{steps.id.outputs.prop}}.zip"
-            - name: Zip the compiled files
-              uses: thedoctor0/zip-release@0.7.1
-              with:
-                  type: "zip"
-                  filename: "${{steps.id.outputs.prop}}.zip"
-                  exclusions: "*.git* /*node_modules/* /*.vscode/* .npmignore .nvmrc gulpfile.js package-lock.json package.json /src/* /scss/* /sass/* .cmd/*"
-            - name: Create GitHub Release
-              uses: softprops/action-gh-release@v1
-              with:
-                  tag_name: ${{steps.version.outputs.prop}}
-                  name: ${{steps.id.outputs.prop}} - v${{steps.version.outputs.prop}}
-                  generate_release_notes: true
-                  draft: false
-                  prerelease: false
-                  files: |
-                      ${{steps.id.outputs.prop}}.zip
-                      module.json
             - name: Pack Compendiums
               run: |
                   echo "Installing Foundry VTT CLI"
@@ -69,3 +52,20 @@ jobs:
                   fvtt package pack -n "how-to-play" --in ./src/packs/how-to-play --out ./packs
                   echo "Packaging Narrator Notes"
                   fvtt package pack -n "narrator-notes" --in ./src/packs/narrator-notes --out ./packs
+            - name: Zip the compiled files
+              uses: thedoctor0/zip-release@0.7.1
+              with:
+                  type: "zip"
+                  filename: "${{steps.id.outputs.prop}}.zip"
+                  exclusions: "*.git* /*node_modules/* /*.vscode/* .npmignore .nvmrc gulpfile.js package-lock.json package.json /src/* /scss/* /sass/* .cmd/*"
+            - name: Create GitHub Release
+              uses: softprops/action-gh-release@v1
+              with:
+                  tag_name: ${{steps.version.outputs.prop}}
+                  name: ${{steps.id.outputs.prop}} - v${{steps.version.outputs.prop}}
+                  generate_release_notes: true
+                  draft: false
+                  prerelease: false
+                  files: |
+                      ${{steps.id.outputs.prop}}.zip
+                      module.json
