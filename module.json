@@ -1,7 +1,7 @@
 {
 	"id": "metanthropes-introductory",
 	"title": "Metanthropes Introductory",
-	"version": "0.9.006",
+	"version": "0.9.007",
 	"compatibility": {
 		"minimum": "11",
 		"verified": "11.315"
